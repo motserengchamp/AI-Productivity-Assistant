@@ -154,3 +154,27 @@ Key Milestones
 - Week 6: Testing completed
 - Week 8: Documentation completed
 - Week 9: Final project ready for deployment and presentation
+Evaluation Criteria
+
+The AI Productivity Assistant will be evaluated using the following criteria:
+
+Criteria| Description| Weight
+Functionality| The application correctly performs core functions such as task management, prioritization, scheduling, summarization, and content generation.| 25%
+AI Response Quality| AI-generated responses are relevant, accurate, clear, useful, and aligned with the user's instructions.| 20%
+Prompt Engineering| Prompts are well-structured, consistent, and designed to produce reliable AI outputs.| 15%
+User Experience| The application is simple, intuitive, and easy for users to interact with.| 10%
+Reliability & Error Handling| The system handles invalid input, missing information, and AI/API errors appropriately.| 10%
+Code Quality| Python code is organized, readable, maintainable, and follows good programming practices.| 10%
+Documentation| README, setup instructions, examples, requirements, and project documentation are complete and clear.| 5%
+Testing| Core features and AI responses are tested using appropriate examples and test cases.| 5%
+
+Success Measures
+
+The project will be considered successful if:
+
+- Users can complete common productivity tasks efficiently.
+- AI responses are relevant and actionable.
+- Core features work consistently.
+- Invalid inputs and errors are handled gracefully.
+- The application is easy to understand and use.
+- The code and documentation are suitable for others to run and extend.
