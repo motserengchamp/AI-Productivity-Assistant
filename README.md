@@ -133,7 +133,7 @@ The AI Productivity Assistant must provide the following core functionality:
     - Process user requests through the AI model.
     - Return clear, relevant, and structured responses.
     - Handle unavailable or invalid AI responses gracefully.
-Project Timeline
+PROJECT TIMELINE
 
 Phase| Activities| Duration
 Phase 1: Planning| Define project objectives, target users, requirements, and core features.| Week 1
@@ -154,7 +154,7 @@ Key Milestones
 - Week 6: Testing completed
 - Week 8: Documentation completed
 - Week 9: Final project ready for deployment and presentation
-Evaluation Criteria
+EVALUATION CRITERIA
 
 The AI Productivity Assistant will be evaluated using the following criteria:
 
