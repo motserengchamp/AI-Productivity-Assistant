@@ -70,3 +70,66 @@ The assistant can generate professional workplace emails from simple instruction
 ```text
 Tell the team that tomorrow's meeting has been moved from
 10:00 to 14:00 and ask everyone to confirm attendance.
+Core Functional Requirements
+
+The AI Productivity Assistant must provide the following core functionality:
+
+1. Task Creation
+   
+   - Allow users to create new tasks.
+   - Capture task descriptions, deadlines, priorities, and optional categories.
+
+2. Task Management
+   
+   - Allow users to view, update, complete, and remove tasks.
+   - Maintain an organized list of active and completed tasks.
+
+3. Task Prioritization
+   
+   - Use task urgency and importance to recommend priorities.
+   - Identify high-priority tasks that should receive immediate attention.
+
+4. AI Schedule Generation
+   
+   - Generate daily or weekly schedules based on the user's tasks and deadlines.
+   - Organize tasks into practical time blocks.
+
+5. AI Productivity Assistance
+   
+   - Allow users to ask productivity-related questions.
+   - Provide actionable recommendations based on the information provided by the user.
+
+6. Text Summarization
+   
+   - Accept lengthy notes or text.
+   - Generate concise summaries containing the most important information.
+
+7. Content Generation
+   
+   - Generate emails, meeting notes, to-do lists, plans, and other productivity-related content.
+   - Allow users to specify the desired tone or format.
+
+8. Goal Management
+   
+   - Allow users to define short-term and long-term goals.
+   - Break larger goals into smaller, actionable tasks.
+
+9. Search and Organization
+   
+   - Allow users to find tasks and information quickly.
+   - Organize tasks using categories, priorities, or deadlines.
+
+10. Input Validation and Error Handling
+    
+    - Validate user input before processing.
+    - Provide clear error messages when required information is missing or invalid.
+
+11. Data Persistence
+    
+    - Store tasks and relevant user information so that it remains available between application sessions.
+
+12. AI Response Handling
+    
+    - Process user requests through the AI model.
+    - Return clear, relevant, and structured responses.
+    - Handle unavailable or invalid AI responses gracefully.
